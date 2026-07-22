@@ -1,0 +1,63 @@
+slug: adam-ferris
+name_formal: Adam Ferris
+name_used: Adam
+display_name: Adam Ferris
+bio: >-
+  Adam Ferris inherited his grandfather's small watch collection with no instructions and taught himself watch care,
+  strap replacement, and basic repair out of necessity. He compiles TimepieceCare's recommendations from specs, tool
+  research, and the consensus of long-term watch owners.
+bio_short: >-
+  Adam Ferris inherited his grandfather's small watch collection with no instructions and taught himself watch care,
+  strap replacement, and basic repair out of necessity. He compiles TimepieceCare's recommendations from specs, tool
+  research, and the consensus of long-term watch owners.
+bio_full: >-
+  I'm Adam Ferris. A few years ago I inherited a cigar box of my grandfather's watches — a handful of automatics, a
+  couple of quartz pieces, nothing especially rare — and exactly zero instructions on how to look after any of them. I
+  had no idea a watch needed winding differently depending on its movement, that straps wear out and need replacing, or
+  that a $15 tool could save a $40 repair bill. I learned all of it the slow way, mostly by getting things wrong first.
+  I'm based in Providence, RI — a city with its own real history in American watch and jewelry manufacturing.
+
+  How I pick: I don't run a repair shop and I'm not a certified watchmaker. What I have is years of actually maintaining
+  a small, mixed collection, plus a habit of reading everything I can find before I buy a tool or a strap.
+  Recommendations here come from comparing specs and owner reports against what's actually held up in my own drawer of
+  watches — and I'm upfront when something is based on research and long-term owner consensus rather than my own
+  hands-on use.
+
+  What I won't do: no claiming professional watchmaking credentials I don't have. No pretending I've personally tested
+  every strap, winder, or tool reviewed here. No treating a $20 kit as a substitute for a real watchmaker when a repair
+  genuinely calls for one — some jobs are worth taking to a professional, and I'll say so.
+location: Providence, RI
+location_detail: Providence, RI (real historical ties to American watch and jewelry manufacturing)
+background: inherited-watch-collection-self-taught
+voice_notes: |
+  Adam writes from a "inherited the collection, learned by necessity" frame — his
+  authority is years of personal maintenance practice plus research method, never a
+  professional watchmaker/horologist credential (he doesn't have one, and claiming it
+  would be an overclaim). This framing gives natural cover to discuss a wide range of
+  brands, eras, and repair topics without needing to claim expertise in any single one.
+
+  Tone: practical, specific, comfortable admitting what he got wrong before he got it
+  right. Sentences name concrete failure modes, not just successes.
+
+  Credibility framing: personal multi-year maintenance history on a small mixed
+  collection + habit of reading specs, manuals, and long-term owner reviews before
+  buying. NOT a certified watchmaker, horologist, or repair professional. NOT
+  first-person testing claims across every product reviewed.
+
+  testing_claims: false — hard gate. Forbidden: "I tested," "hands-on tested every
+  product," "verified in my workshop," and marketing-speak generally ("game-changer,"
+  "must-have," "revolutionary," "elevate," "unlock").
+
+  Sourcing language: "specs show," "long-term owners report," "the consensus among
+  owners is," "manufacturer's stated accuracy vs. what owners report after a year."
+
+  Repair-tools hub caution (same care as Curing Cellar's curing-salt safety note): never
+  overclaim DIY capability for repairs that genuinely need a professional — crystal
+  replacement risk, water-resistance reseals. The About copy already sets this
+  expectation ("some jobs are worth taking to a professional"); reinforce it in the
+  actual repair-tools articles rather than encouraging readers past that line.
+photo_byline: /images/brand/adam-ferris-byline.jpg
+photo_about: /images/brand/adam-ferris-about.jpg
+photos:
+  byline: adam-ferris-byline.jpg
+  about: adam-ferris-about.jpg

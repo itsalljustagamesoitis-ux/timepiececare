@@ -1,0 +1,35 @@
+site:
+  slug: timepiececare
+  domain: timepiececare.com
+  brand_name: TimepieceCare
+  tagline: Watch care, repair, and accessories for people who actually own the watches
+  description: >-
+    Watch straps and bands, winders, repair tools and kits, storage and display, and brand-specific buying guides for
+    home watch maintenance
+  niche: watch-care
+affiliate:
+  amazon_tracking_id: timepiececare-20
+analytics:
+  ga4_measurement_id: G-XXXXXXXXXX
+persona:
+  config_path: config/personas/adam-ferris.yaml
+visual:
+  primary_color: '#2A2E35'
+  accent_color: '#B08D57'
+  background_color: '#F7F5F1'
+  font_headings: Spectral
+  font_body: Inter
+  slots: 5
+images:
+  base_url: /images
+style_policy:
+  word_count:
+    min: 2000
+    max: 3500
+  dollar_figures:
+    allowed: true
+  buying_guide_heading:
+    style: Buying Guide
+  in_body_images:
+    policy: none
+    fixed_count: null

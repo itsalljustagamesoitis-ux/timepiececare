@@ -1,0 +1,47 @@
+categories:
+  - slug: care-maintenance
+    label: Care & Maintenance
+    hubs:
+      - slug: repair-tools
+        label: Repair Tools & Kits
+        description: >-
+          Watch repair tools and kits compared for the home watch owner — case openers, spring bar tools, battery
+          replacement kits — with honest guidance on when a job actually needs a professional watchmaker instead.
+        articles: []
+      - slug: watch-winders
+        label: Watch Winders
+        description: >-
+          Watch winders compared on rotation programs, capacity, and build quality for keeping automatic movements
+          running between wears.
+        articles: []
+      - slug: storage-display
+        label: Storage & Display
+        description: >-
+          Watch boxes, cases, and display options compared on protection, capacity, and how well they actually hold up
+          to daily use.
+        articles: []
+  - slug: straps-accessories
+    label: Straps & Accessories
+    hubs:
+      - slug: straps-bands
+        label: Straps & Bands
+        description: >-
+          Watch straps and bands compared by material, fit, and durability — leather, NATO, rubber, and metal bracelets
+          across the sizes and lug widths that matter most.
+        articles: []
+  - slug: reviews
+    label: Reviews
+    hubs:
+      - slug: brand-specific
+        label: Brand-Specific Reviews
+        description: Brand- and model-specific watch reviews compared on specs, owner-reported reliability, and long-term value.
+        articles: []
+  - slug: comparisons
+    label: Comparisons
+    hubs:
+      - slug: comparisons
+        label: Head-to-Head Comparisons
+        description: >-
+          Direct comparisons between the most-searched watch care products and accessories — for readers deciding
+          between two specific options.
+        articles: []
