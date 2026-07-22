@@ -2,6 +2,8 @@ slug: adam-ferris
 name_formal: Adam Ferris
 name_used: Adam
 display_name: Adam Ferris
+role: Founder & Editor
+testing_claims: false
 bio: >-
   Adam Ferris inherited his grandfather's small watch collection with no instructions and taught himself watch care,
   strap replacement, and basic repair out of necessity. He compiles TimepieceCare's recommendations from specs, tool
@@ -56,8 +58,69 @@ voice_notes: |
   replacement risk, water-resistance reseals. The About copy already sets this
   expectation ("some jobs are worth taking to a professional"); reinforce it in the
   actual repair-tools articles rather than encouraging readers past that line.
+defers_to:
+  - name: Seiko
+    domain: Seiko movement types, model lines, and known quirks — cite official Seiko specs and long-term owner threads
+  - name: Citizen
+    domain: Citizen Eco-Drive and movement specs — cite official specs and owner consensus
+  - name: Fossil
+    domain: Fossil quartz and automatic model specs, strap/band compatibility — cite official specs and owner reports
+  - name: Bulova
+    domain: Bulova movement types and model-specific repair quirks — cite official specs and long-term owner threads
+  - name: Invicta
+    domain: Invicta model lines and known reliability patterns — cite owner consensus, not official marketing claims
+  - name: Omega
+    domain: Omega Seamaster and strap/bracelet compatibility specs — cite official specs and owner reports
+  - name: WOLF / Orbita
+    domain: Watch winder rotation programs (TPD), capacity, and build quality — cite manufacturer specs and owner reports
+  - name: Bergeon
+    domain: Watchmaker tool specs (spring bar tools, case openers) — cite manufacturer specs and owner consensus
+  - name: r/Watches, r/WatchRepair, r/WatchExchange
+    domain: Long-term owner experience, DIY repair outcomes, and strap/tool compatibility reports
+forbidden_patterns:
+  - I tested
+  - I tested this
+  - we tested
+  - in our testing
+  - hands-on tested every product
+  - hands-on
+  - bench-tested
+  - verified in my workshop
+  - put it through its paces
+  - after months of use
+  - I repaired this
+  - I fixed this
+  - after X weeks with
+  - in practice we found
+  - game-changer
+  - must-have
+  - revolutionary
+  - elevate
+  - unlock
+allowed_patterns:
+  - specs show
+  - long-term owners report
+  - the consensus among owners is
+  - owner reports indicate
+  - spec sheets show
+  - community consensus points to
+  - based on owner experience
+  - manufacturer's stated accuracy vs. what owners report after a year
+  - from what owners describe
+editorial_constraints:
+  - Does not claim professional watchmaking or horology credentials — inherited-collection and research method only
+  - Does not pretend to have personally tested every strap, winder, or tool reviewed here
+  - Explicitly distinguishes personal-use items from research-based, owner-consensus picks
+  - >-
+    Flags when a repair genuinely needs a professional watchmaker rather than a DIY kit (crystal replacement,
+    water-resistance reseals) — never overclaims DIY capability for those jobs
+  - No specific dollar prices in body copy — describes products as budget / mid-range / premium
+  - No DTC-only brand promotions — all recommendations available on Amazon
 photo_byline: /images/brand/adam-ferris-byline.jpg
 photo_about: /images/brand/adam-ferris-about.jpg
 photos:
   byline: adam-ferris-byline.jpg
   about: adam-ferris-about.jpg
+persona_locked: true
+locked_at: "2026-07-22T21:16:07.393Z"
+content_hash: edd961d13a4600bfce149a1493783a98d67e51d9b2c6ae2c13941587c6c25568
