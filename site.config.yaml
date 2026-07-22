@@ -28,6 +28,7 @@ visual:
     social_square: /images/brand/logo-header.svg
 images:
   base_url: /images
+  pexels_niche_keyword: watch
 style_policy:
   word_count:
     min: 2000
