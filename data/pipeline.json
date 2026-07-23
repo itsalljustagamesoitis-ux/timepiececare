@@ -33,7 +33,11 @@
         "seiko-5-sports-automatic-green-dial"
       ],
       "hero_image": null,
-      "body_images": []
+      "body_images": [],
+      "hub_url": "/brand-specific/",
+      "category_label": "Reviews",
+      "category_slug": "reviews",
+      "staged": true
     },
     {
       "id": 2,
@@ -63,7 +67,9 @@
         "seiko-ssk001-automatic-watch-for-men"
       ],
       "hero_image": null,
-      "body_images": []
+      "body_images": [],
+      "status": "skip",
+      "skip_reason": "insufficient-product-coverage: only 3 usable products found via Rainforest for this narrow keyword"
     },
     {
       "id": 3,
@@ -97,7 +103,11 @@
         "citizen-mens-sport-casual-avion-eco"
       ],
       "hero_image": null,
-      "body_images": []
+      "body_images": [],
+      "hub_url": "/brand-specific/",
+      "category_label": "Reviews",
+      "category_slug": "reviews",
+      "staged": true
     },
     {
       "id": 4,
@@ -130,7 +140,11 @@
         "fossil-mens-watch-townsman-automatic-stainless-5"
       ],
       "hero_image": null,
-      "body_images": []
+      "body_images": [],
+      "hub_url": "/brand-specific/",
+      "category_label": "Reviews",
+      "category_slug": "reviews",
+      "staged": true
     },
     {
       "id": 5,
@@ -164,7 +178,11 @@
         "kinobo-watch-link-removal-kit-tools"
       ],
       "hero_image": null,
-      "body_images": []
+      "body_images": [],
+      "hub_url": "/brand-specific/",
+      "category_label": "Reviews",
+      "category_slug": "reviews",
+      "staged": true
     },
     {
       "id": 6,
@@ -198,7 +216,11 @@
         "tenergy-cr1216-3v-lithium-button"
       ],
       "hero_image": null,
-      "body_images": []
+      "body_images": [],
+      "hub_url": "/brand-specific/",
+      "category_label": "Reviews",
+      "category_slug": "reviews",
+      "staged": true
     },
     {
       "id": 7,
@@ -232,7 +254,11 @@
         "easytime-watch-battery-replacement-kit"
       ],
       "hero_image": null,
-      "body_images": []
+      "body_images": [],
+      "hub_url": "/brand-specific/",
+      "category_label": "Reviews",
+      "category_slug": "reviews",
+      "staged": true
     },
     {
       "id": 8,
@@ -240,7 +266,7 @@
       "category": "Comparisons",
       "hub": "comparisons",
       "hub_slug": "comparisons",
-      "hub_label": "Comparisons",
+      "hub_label": "Head-to-Head Comparisons",
       "cluster": "Comparisons",
       "locked_url": null,
       "type": "comparison",
@@ -266,7 +292,11 @@
         "inspired-silver-silver-square-charm-bracelet-with-2"
       ],
       "hero_image": null,
-      "body_images": []
+      "body_images": [],
+      "hub_url": "/comparisons/",
+      "category_label": "Comparisons",
+      "category_slug": "comparisons",
+      "staged": true
     },
     {
       "id": 9,
@@ -274,7 +304,7 @@
       "category": "Comparisons",
       "hub": "comparisons",
       "hub_slug": "comparisons",
-      "hub_label": "Comparisons",
+      "hub_label": "Head-to-Head Comparisons",
       "cluster": "Comparisons",
       "locked_url": null,
       "type": "comparison",
@@ -300,7 +330,11 @@
         "bulova-mens-crystal-phantom-3-hand"
       ],
       "hero_image": null,
-      "body_images": []
+      "body_images": [],
+      "hub_url": "/comparisons/",
+      "category_label": "Comparisons",
+      "category_slug": "comparisons",
+      "staged": true
     },
     {
       "id": 10,
@@ -308,7 +342,7 @@
       "category": "Comparisons",
       "hub": "comparisons",
       "hub_slug": "comparisons",
-      "hub_label": "Comparisons",
+      "hub_label": "Head-to-Head Comparisons",
       "cluster": "Comparisons",
       "locked_url": null,
       "type": "comparison",
@@ -334,7 +368,11 @@
         "baihui-bezel-accessories-compatible-galaxy"
       ],
       "hero_image": null,
-      "body_images": []
+      "body_images": [],
+      "hub_url": "/comparisons/",
+      "category_label": "Comparisons",
+      "category_slug": "comparisons",
+      "staged": true
     },
     {
       "id": 11,
@@ -368,7 +406,11 @@
         "watch-link-removal-kit-adjustment"
       ],
       "hero_image": null,
-      "body_images": []
+      "body_images": [],
+      "hub_url": "/repair-tools/",
+      "category_label": "Care & Maintenance",
+      "category_slug": "care-maintenance",
+      "staged": true
     },
     {
       "id": 12,
@@ -402,7 +444,11 @@
         "easytime-watch-repair-kit-149in1-watch"
       ],
       "hero_image": null,
-      "body_images": []
+      "body_images": [],
+      "hub_url": "/repair-tools/",
+      "category_label": "Care & Maintenance",
+      "category_slug": "care-maintenance",
+      "staged": true
     },
     {
       "id": 13,
@@ -435,7 +481,11 @@
         "jorest-watch-repair-kit-watch-press"
       ],
       "hero_image": null,
-      "body_images": []
+      "body_images": [],
+      "hub_url": "/repair-tools/",
+      "category_label": "Care & Maintenance",
+      "category_slug": "care-maintenance",
+      "staged": true
     },
     {
       "id": 14,
@@ -466,7 +516,11 @@
         "bulova-mens-military-heritage-hack-veterans"
       ],
       "hero_image": null,
-      "body_images": []
+      "body_images": [],
+      "hub_url": "/repair-tools/",
+      "category_label": "Care & Maintenance",
+      "category_slug": "care-maintenance",
+      "staged": true
     },
     {
       "id": 15,
@@ -498,7 +552,11 @@
         "barton-watch-bands-spring-bar-tool-kit-for"
       ],
       "hero_image": null,
-      "body_images": []
+      "body_images": [],
+      "hub_url": "/repair-tools/",
+      "category_label": "Care & Maintenance",
+      "category_slug": "care-maintenance",
+      "staged": true
     },
     {
       "id": 16,
@@ -532,7 +590,11 @@
         "easytime-watch-battery-replacement-kit"
       ],
       "hero_image": null,
-      "body_images": []
+      "body_images": [],
+      "hub_url": "/repair-tools/",
+      "category_label": "Care & Maintenance",
+      "category_slug": "care-maintenance",
+      "staged": true
     },
     {
       "id": 17,
@@ -566,7 +628,11 @@
         "licb-40-pack-watch-batteries-2"
       ],
       "hero_image": null,
-      "body_images": []
+      "body_images": [],
+      "hub_url": "/repair-tools/",
+      "category_label": "Care & Maintenance",
+      "category_slug": "care-maintenance",
+      "staged": true
     },
     {
       "id": 18,
@@ -600,7 +666,11 @@
         "jorest-watch-repair-tool-kit-battery-2"
       ],
       "hero_image": null,
-      "body_images": []
+      "body_images": [],
+      "hub_url": "/repair-tools/",
+      "category_label": "Care & Maintenance",
+      "category_slug": "care-maintenance",
+      "staged": true
     },
     {
       "id": 19,
@@ -630,7 +700,9 @@
         "bergeon-new-package-bergeon-unisex-adult"
       ],
       "hero_image": null,
-      "body_images": []
+      "body_images": [],
+      "status": "skip",
+      "skip_reason": "insufficient-product-coverage: only 3 usable products found via Rainforest for this narrow keyword"
     },
     {
       "id": 20,
@@ -664,7 +736,11 @@
         "jorest-watch-battery-replacement-tool"
       ],
       "hero_image": null,
-      "body_images": []
+      "body_images": [],
+      "hub_url": "/repair-tools/",
+      "category_label": "Care & Maintenance",
+      "category_slug": "care-maintenance",
+      "staged": true
     },
     {
       "id": 21,
@@ -697,7 +773,11 @@
         "procase-watch-box-fathers-day-gift-2"
       ],
       "hero_image": null,
-      "body_images": []
+      "body_images": [],
+      "hub_url": "/storage-display/",
+      "category_label": "Care & Maintenance",
+      "category_slug": "care-maintenance",
+      "staged": true
     },
     {
       "id": 22,
@@ -731,7 +811,11 @@
         "bewishome-watch-winder-for-automatic-watches"
       ],
       "hero_image": null,
-      "body_images": []
+      "body_images": [],
+      "hub_url": "/storage-display/",
+      "category_label": "Care & Maintenance",
+      "category_slug": "care-maintenance",
+      "staged": true
     },
     {
       "id": 23,
@@ -765,7 +849,11 @@
         "heiden-watch-winder-single-watch-winders"
       ],
       "hero_image": null,
-      "body_images": []
+      "body_images": [],
+      "hub_url": "/storage-display/",
+      "category_label": "Care & Maintenance",
+      "category_slug": "care-maintenance",
+      "staged": true
     },
     {
       "id": 24,
@@ -799,7 +887,11 @@
         "hightall-luxury-automatic-watch-winder-for"
       ],
       "hero_image": null,
-      "body_images": []
+      "body_images": [],
+      "hub_url": "/storage-display/",
+      "category_label": "Care & Maintenance",
+      "category_slug": "care-maintenance",
+      "staged": true
     },
     {
       "id": 25,
@@ -833,7 +925,11 @@
         "ritche-christmas-gift-quick-release-leather-2"
       ],
       "hero_image": null,
-      "body_images": []
+      "body_images": [],
+      "hub_url": "/straps-bands/",
+      "category_label": "Straps & Accessories",
+      "category_slug": "straps-accessories",
+      "staged": true
     },
     {
       "id": 26,
@@ -867,7 +963,11 @@
         "nylon-watchband-replacement-quick-release"
       ],
       "hero_image": null,
-      "body_images": []
+      "body_images": [],
+      "hub_url": "/straps-bands/",
+      "category_label": "Straps & Accessories",
+      "category_slug": "straps-accessories",
+      "staged": true
     },
     {
       "id": 27,
@@ -901,7 +1001,11 @@
         "italian-leather-watch-band-tuscany"
       ],
       "hero_image": null,
-      "body_images": []
+      "body_images": [],
+      "hub_url": "/straps-bands/",
+      "category_label": "Straps & Accessories",
+      "category_slug": "straps-accessories",
+      "staged": true
     },
     {
       "id": 28,
@@ -934,7 +1038,11 @@
         "ritche-christmas-gift-18mm-20mm-22mm"
       ],
       "hero_image": null,
-      "body_images": []
+      "body_images": [],
+      "hub_url": "/straps-bands/",
+      "category_label": "Straps & Accessories",
+      "category_slug": "straps-accessories",
+      "staged": true
     },
     {
       "id": 29,
@@ -968,7 +1076,11 @@
         "6-pcs-watch-band-keepers"
       ],
       "hero_image": null,
-      "body_images": []
+      "body_images": [],
+      "hub_url": "/straps-bands/",
+      "category_label": "Straps & Accessories",
+      "category_slug": "straps-accessories",
+      "staged": true
     },
     {
       "id": 30,
@@ -1002,7 +1114,11 @@
         "tiesome-silicone-watch-bands-quick-release"
       ],
       "hero_image": null,
-      "body_images": []
+      "body_images": [],
+      "hub_url": "/straps-bands/",
+      "category_label": "Straps & Accessories",
+      "category_slug": "straps-accessories",
+      "staged": true
     },
     {
       "id": 31,
@@ -1036,7 +1152,12 @@
         "bisonstrap-mens-watch-bands-hand-stitched"
       ],
       "hero_image": null,
-      "body_images": []
+      "body_images": [],
+      "hub_url": "/straps-bands/",
+      "category_label": "Straps & Accessories",
+      "category_slug": "straps-accessories",
+      "fail_count": 1,
+      "staged": true
     },
     {
       "id": 32,
@@ -1067,7 +1188,11 @@
         "wocci-removal-install-repair-tool-for"
       ],
       "hero_image": null,
-      "body_images": []
+      "body_images": [],
+      "hub_url": "/straps-bands/",
+      "category_label": "Straps & Accessories",
+      "category_slug": "straps-accessories",
+      "staged": true
     },
     {
       "id": 33,
@@ -1101,7 +1226,11 @@
         "woukup-premium-weave-nylon-watch-band"
       ],
       "hero_image": null,
-      "body_images": []
+      "body_images": [],
+      "hub_url": "/straps-bands/",
+      "category_label": "Straps & Accessories",
+      "category_slug": "straps-accessories",
+      "staged": true
     },
     {
       "id": 34,
@@ -1135,7 +1264,12 @@
         "jorest-watch-link-removal-tool-watch"
       ],
       "hero_image": null,
-      "body_images": []
+      "body_images": [],
+      "hub_url": "/straps-bands/",
+      "category_label": "Straps & Accessories",
+      "category_slug": "straps-accessories",
+      "staged": true,
+      "fail_count": 1
     },
     {
       "id": 35,
@@ -1166,7 +1300,11 @@
         "jorest-watch-link-removal-tool-kit"
       ],
       "hero_image": null,
-      "body_images": []
+      "body_images": [],
+      "hub_url": "/straps-bands/",
+      "category_label": "Straps & Accessories",
+      "category_slug": "straps-accessories",
+      "staged": true
     },
     {
       "id": 36,
@@ -1200,7 +1338,11 @@
         "watchdives-fkm-rubber-watch-strap-cut"
       ],
       "hero_image": null,
-      "body_images": []
+      "body_images": [],
+      "hub_url": "/straps-bands/",
+      "category_label": "Straps & Accessories",
+      "category_slug": "straps-accessories",
+      "staged": true
     },
     {
       "id": 37,
@@ -1234,7 +1376,11 @@
         "bands-for-omega-seamaster-watch-2"
       ],
       "hero_image": null,
-      "body_images": []
+      "body_images": [],
+      "hub_url": "/straps-bands/",
+      "category_label": "Straps & Accessories",
+      "category_slug": "straps-accessories",
+      "staged": true
     },
     {
       "id": 38,
@@ -1268,7 +1414,11 @@
         "efixtk-watch-link-removal-kit-watch"
       ],
       "hero_image": null,
-      "body_images": []
+      "body_images": [],
+      "hub_url": "/straps-bands/",
+      "category_label": "Straps & Accessories",
+      "category_slug": "straps-accessories",
+      "staged": true
     },
     {
       "id": 39,
@@ -1302,7 +1452,12 @@
         "alpine-sporty-premium-soft-silicone"
       ],
       "hero_image": null,
-      "body_images": []
+      "body_images": [],
+      "hub_url": "/straps-bands/",
+      "category_label": "Straps & Accessories",
+      "category_slug": "straps-accessories",
+      "staged": true,
+      "fail_count": 1
     },
     {
       "id": 40,
@@ -1335,7 +1490,11 @@
         "wolf-designs-wolf-heritage-single-winder-with"
       ],
       "hero_image": null,
-      "body_images": []
+      "body_images": [],
+      "hub_url": "/watch-winders/",
+      "category_label": "Care & Maintenance",
+      "category_slug": "care-maintenance",
+      "staged": true
     },
     {
       "id": 41,
@@ -1368,7 +1527,11 @@
         "hightall-luxury-automatic-watch-winder-for"
       ],
       "hero_image": null,
-      "body_images": []
+      "body_images": [],
+      "hub_url": "/watch-winders/",
+      "category_label": "Care & Maintenance",
+      "category_slug": "care-maintenance",
+      "staged": true
     },
     {
       "id": 42,
@@ -1402,7 +1565,11 @@
         "mozsly-watch-winder-for-automatic-watches"
       ],
       "hero_image": null,
-      "body_images": []
+      "body_images": [],
+      "hub_url": "/watch-winders/",
+      "category_label": "Care & Maintenance",
+      "category_slug": "care-maintenance",
+      "staged": true
     },
     {
       "id": 43,
@@ -1436,7 +1603,11 @@
         "heiden-watch-winder-for-automatic-watches"
       ],
       "hero_image": null,
-      "body_images": []
+      "body_images": [],
+      "hub_url": "/watch-winders/",
+      "category_label": "Care & Maintenance",
+      "category_slug": "care-maintenance",
+      "staged": true
     },
     {
       "id": 44,
@@ -1470,7 +1641,11 @@
         "automatic-single-watch-winder-for-2"
       ],
       "hero_image": null,
-      "body_images": []
+      "body_images": [],
+      "hub_url": "/watch-winders/",
+      "category_label": "Care & Maintenance",
+      "category_slug": "care-maintenance",
+      "staged": true
     },
     {
       "id": 45,
@@ -1504,7 +1679,11 @@
         "bewishome-watch-winders-for-automatic-watches-2"
       ],
       "hero_image": null,
-      "body_images": []
+      "body_images": [],
+      "hub_url": "/watch-winders/",
+      "category_label": "Care & Maintenance",
+      "category_slug": "care-maintenance",
+      "staged": true
     },
     {
       "id": 46,
@@ -1537,7 +1716,12 @@
         "unamela-watch-winder-for-automatic-watches"
       ],
       "hero_image": null,
-      "body_images": []
+      "body_images": [],
+      "hub_url": "/watch-winders/",
+      "category_label": "Care & Maintenance",
+      "category_slug": "care-maintenance",
+      "staged": true,
+      "fail_count": 1
     },
     {
       "id": 47,
@@ -1571,7 +1755,12 @@
         "wolf-designs-wolf-heritage-single-winder-with-2"
       ],
       "hero_image": null,
-      "body_images": []
+      "body_images": [],
+      "hub_url": "/watch-winders/",
+      "category_label": "Care & Maintenance",
+      "category_slug": "care-maintenance",
+      "fail_count": 1,
+      "staged": true
     },
     {
       "id": 48,
@@ -1602,7 +1791,11 @@
         "dukwin-single-watch-winder-with-dual-3"
       ],
       "hero_image": null,
-      "body_images": []
+      "body_images": [],
+      "hub_url": "/watch-winders/",
+      "category_label": "Care & Maintenance",
+      "category_slug": "care-maintenance",
+      "staged": true
     },
     {
       "id": 49,
@@ -1636,7 +1829,11 @@
         "mcbazel-watch-winder-for-automatic-watches-2"
       ],
       "hero_image": null,
-      "body_images": []
+      "body_images": [],
+      "hub_url": "/watch-winders/",
+      "category_label": "Care & Maintenance",
+      "category_slug": "care-maintenance",
+      "staged": true
     }
   ]
 }
