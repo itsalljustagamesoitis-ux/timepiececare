@@ -1,5 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 40" width="200" height="40" aria-label="Site logo">
-  <!-- Replace with real logo before launch -->
-  <rect width="200" height="40" fill="none"/>
-  <text x="0" y="28" font-family="serif" font-size="24" font-weight="bold" fill="currentColor">TimepieceCare</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 44" width="220" height="44" aria-label="TimepieceCare">
+  <!-- Watch case -->
+  <circle cx="20" cy="22" r="16" fill="rgba(255,255,255,0.15)"/>
+  <!-- Crown -->
+  <rect x="35" y="19" width="6" height="6" rx="1" fill="rgba(255,255,255,0.5)"/>
+  <!-- Dial -->
+  <circle cx="20" cy="22" r="12" fill="none" stroke="white" stroke-width="1"/>
+  <!-- Hour ticks -->
+  <circle cx="20" cy="11" r="1" fill="white"/>
+  <circle cx="20" cy="33" r="1" fill="white"/>
+  <circle cx="9" cy="22" r="1" fill="white"/>
+  <circle cx="31" cy="22" r="1" fill="white"/>
+  <!-- Hands -->
+  <line x1="20" y1="22" x2="20" y2="14" stroke="white" stroke-width="2" stroke-linecap="round"/>
+  <line x1="20" y1="22" x2="26" y2="22" stroke="white" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="20" cy="22" r="1.6" fill="white"/>
+  <!-- Wordmark -->
+  <text x="50" y="19" font-family="Spectral, Georgia, serif" font-size="11" font-weight="600" fill="rgba(255,255,255,0.7)" letter-spacing="2.5">TIMEPIECE</text>
+  <text x="50" y="40" font-family="Spectral, Georgia, serif" font-size="22" font-weight="700" fill="white" letter-spacing="1">CARE</text>
 </svg>
