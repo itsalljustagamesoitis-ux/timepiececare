@@ -37,7 +37,8 @@
       "hub_url": "/brand-specific/",
       "category_label": "Reviews",
       "category_slug": "reviews",
-      "staged": true
+      "staged": true,
+      "status": "published"
     },
     {
       "id": 2,
@@ -107,7 +108,8 @@
       "hub_url": "/brand-specific/",
       "category_label": "Reviews",
       "category_slug": "reviews",
-      "staged": true
+      "staged": true,
+      "status": "published"
     },
     {
       "id": 4,
@@ -144,7 +146,8 @@
       "hub_url": "/brand-specific/",
       "category_label": "Reviews",
       "category_slug": "reviews",
-      "staged": true
+      "staged": true,
+      "status": "published"
     },
     {
       "id": 5,
@@ -182,7 +185,8 @@
       "hub_url": "/brand-specific/",
       "category_label": "Reviews",
       "category_slug": "reviews",
-      "staged": true
+      "staged": true,
+      "status": "published"
     },
     {
       "id": 6,
@@ -220,7 +224,8 @@
       "hub_url": "/brand-specific/",
       "category_label": "Reviews",
       "category_slug": "reviews",
-      "staged": true
+      "staged": true,
+      "status": "published"
     },
     {
       "id": 7,
@@ -258,7 +263,8 @@
       "hub_url": "/brand-specific/",
       "category_label": "Reviews",
       "category_slug": "reviews",
-      "staged": true
+      "staged": true,
+      "status": "published"
     },
     {
       "id": 8,
@@ -296,7 +302,8 @@
       "hub_url": "/comparisons/",
       "category_label": "Comparisons",
       "category_slug": "comparisons",
-      "staged": true
+      "staged": true,
+      "status": "published"
     },
     {
       "id": 9,
@@ -334,7 +341,8 @@
       "hub_url": "/comparisons/",
       "category_label": "Comparisons",
       "category_slug": "comparisons",
-      "staged": true
+      "staged": true,
+      "status": "published"
     },
     {
       "id": 10,
@@ -372,7 +380,8 @@
       "hub_url": "/comparisons/",
       "category_label": "Comparisons",
       "category_slug": "comparisons",
-      "staged": true
+      "staged": true,
+      "status": "published"
     },
     {
       "id": 11,
@@ -410,7 +419,8 @@
       "hub_url": "/repair-tools/",
       "category_label": "Care & Maintenance",
       "category_slug": "care-maintenance",
-      "staged": true
+      "staged": true,
+      "status": "published"
     },
     {
       "id": 12,
@@ -448,7 +458,8 @@
       "hub_url": "/repair-tools/",
       "category_label": "Care & Maintenance",
       "category_slug": "care-maintenance",
-      "staged": true
+      "staged": true,
+      "status": "published"
     },
     {
       "id": 13,
@@ -485,7 +496,8 @@
       "hub_url": "/repair-tools/",
       "category_label": "Care & Maintenance",
       "category_slug": "care-maintenance",
-      "staged": true
+      "staged": true,
+      "status": "published"
     },
     {
       "id": 14,
@@ -520,7 +532,8 @@
       "hub_url": "/repair-tools/",
       "category_label": "Care & Maintenance",
       "category_slug": "care-maintenance",
-      "staged": true
+      "staged": true,
+      "status": "published"
     },
     {
       "id": 15,
@@ -556,7 +569,8 @@
       "hub_url": "/repair-tools/",
       "category_label": "Care & Maintenance",
       "category_slug": "care-maintenance",
-      "staged": true
+      "staged": true,
+      "status": "published"
     },
     {
       "id": 16,
@@ -594,7 +608,8 @@
       "hub_url": "/repair-tools/",
       "category_label": "Care & Maintenance",
       "category_slug": "care-maintenance",
-      "staged": true
+      "staged": true,
+      "status": "published"
     },
     {
       "id": 17,
@@ -632,7 +647,8 @@
       "hub_url": "/repair-tools/",
       "category_label": "Care & Maintenance",
       "category_slug": "care-maintenance",
-      "staged": true
+      "staged": true,
+      "status": "published"
     },
     {
       "id": 18,
@@ -670,7 +686,8 @@
       "hub_url": "/repair-tools/",
       "category_label": "Care & Maintenance",
       "category_slug": "care-maintenance",
-      "staged": true
+      "staged": true,
+      "status": "published"
     },
     {
       "id": 19,
@@ -740,7 +757,8 @@
       "hub_url": "/repair-tools/",
       "category_label": "Care & Maintenance",
       "category_slug": "care-maintenance",
-      "staged": true
+      "staged": true,
+      "status": "published"
     },
     {
       "id": 21,
@@ -777,7 +795,8 @@
       "hub_url": "/storage-display/",
       "category_label": "Care & Maintenance",
       "category_slug": "care-maintenance",
-      "staged": true
+      "staged": true,
+      "status": "published"
     },
     {
       "id": 22,
@@ -815,7 +834,8 @@
       "hub_url": "/storage-display/",
       "category_label": "Care & Maintenance",
       "category_slug": "care-maintenance",
-      "staged": true
+      "staged": true,
+      "status": "published"
     },
     {
       "id": 23,
@@ -853,7 +873,8 @@
       "hub_url": "/storage-display/",
       "category_label": "Care & Maintenance",
       "category_slug": "care-maintenance",
-      "staged": true
+      "staged": true,
+      "status": "published"
     },
     {
       "id": 24,
@@ -891,7 +912,8 @@
       "hub_url": "/storage-display/",
       "category_label": "Care & Maintenance",
       "category_slug": "care-maintenance",
-      "staged": true
+      "staged": true,
+      "status": "published"
     },
     {
       "id": 25,
@@ -929,7 +951,8 @@
       "hub_url": "/straps-bands/",
       "category_label": "Straps & Accessories",
       "category_slug": "straps-accessories",
-      "staged": true
+      "staged": true,
+      "status": "published"
     },
     {
       "id": 26,
@@ -967,7 +990,8 @@
       "hub_url": "/straps-bands/",
       "category_label": "Straps & Accessories",
       "category_slug": "straps-accessories",
-      "staged": true
+      "staged": true,
+      "status": "published"
     },
     {
       "id": 27,
@@ -1005,7 +1029,8 @@
       "hub_url": "/straps-bands/",
       "category_label": "Straps & Accessories",
       "category_slug": "straps-accessories",
-      "staged": true
+      "staged": true,
+      "status": "published"
     },
     {
       "id": 28,
@@ -1042,7 +1067,8 @@
       "hub_url": "/straps-bands/",
       "category_label": "Straps & Accessories",
       "category_slug": "straps-accessories",
-      "staged": true
+      "staged": true,
+      "status": "published"
     },
     {
       "id": 29,
@@ -1080,7 +1106,8 @@
       "hub_url": "/straps-bands/",
       "category_label": "Straps & Accessories",
       "category_slug": "straps-accessories",
-      "staged": true
+      "staged": true,
+      "status": "published"
     },
     {
       "id": 30,
@@ -1118,7 +1145,8 @@
       "hub_url": "/straps-bands/",
       "category_label": "Straps & Accessories",
       "category_slug": "straps-accessories",
-      "staged": true
+      "staged": true,
+      "status": "published"
     },
     {
       "id": 31,
@@ -1157,7 +1185,8 @@
       "category_label": "Straps & Accessories",
       "category_slug": "straps-accessories",
       "fail_count": 1,
-      "staged": true
+      "staged": true,
+      "status": "published"
     },
     {
       "id": 32,
@@ -1192,7 +1221,8 @@
       "hub_url": "/straps-bands/",
       "category_label": "Straps & Accessories",
       "category_slug": "straps-accessories",
-      "staged": true
+      "staged": true,
+      "status": "published"
     },
     {
       "id": 33,
@@ -1230,7 +1260,8 @@
       "hub_url": "/straps-bands/",
       "category_label": "Straps & Accessories",
       "category_slug": "straps-accessories",
-      "staged": true
+      "staged": true,
+      "status": "published"
     },
     {
       "id": 34,
@@ -1269,7 +1300,8 @@
       "category_label": "Straps & Accessories",
       "category_slug": "straps-accessories",
       "staged": true,
-      "fail_count": 1
+      "fail_count": 1,
+      "status": "published"
     },
     {
       "id": 35,
@@ -1304,7 +1336,8 @@
       "hub_url": "/straps-bands/",
       "category_label": "Straps & Accessories",
       "category_slug": "straps-accessories",
-      "staged": true
+      "staged": true,
+      "status": "published"
     },
     {
       "id": 36,
@@ -1342,7 +1375,8 @@
       "hub_url": "/straps-bands/",
       "category_label": "Straps & Accessories",
       "category_slug": "straps-accessories",
-      "staged": true
+      "staged": true,
+      "status": "published"
     },
     {
       "id": 37,
@@ -1380,7 +1414,8 @@
       "hub_url": "/straps-bands/",
       "category_label": "Straps & Accessories",
       "category_slug": "straps-accessories",
-      "staged": true
+      "staged": true,
+      "status": "published"
     },
     {
       "id": 38,
@@ -1418,7 +1453,8 @@
       "hub_url": "/straps-bands/",
       "category_label": "Straps & Accessories",
       "category_slug": "straps-accessories",
-      "staged": true
+      "staged": true,
+      "status": "published"
     },
     {
       "id": 39,
@@ -1457,7 +1493,8 @@
       "category_label": "Straps & Accessories",
       "category_slug": "straps-accessories",
       "staged": true,
-      "fail_count": 1
+      "fail_count": 1,
+      "status": "published"
     },
     {
       "id": 40,
@@ -1494,7 +1531,8 @@
       "hub_url": "/watch-winders/",
       "category_label": "Care & Maintenance",
       "category_slug": "care-maintenance",
-      "staged": true
+      "staged": true,
+      "status": "published"
     },
     {
       "id": 41,
@@ -1531,7 +1569,8 @@
       "hub_url": "/watch-winders/",
       "category_label": "Care & Maintenance",
       "category_slug": "care-maintenance",
-      "staged": true
+      "staged": true,
+      "status": "published"
     },
     {
       "id": 42,
@@ -1569,7 +1608,8 @@
       "hub_url": "/watch-winders/",
       "category_label": "Care & Maintenance",
       "category_slug": "care-maintenance",
-      "staged": true
+      "staged": true,
+      "status": "published"
     },
     {
       "id": 43,
@@ -1607,7 +1647,8 @@
       "hub_url": "/watch-winders/",
       "category_label": "Care & Maintenance",
       "category_slug": "care-maintenance",
-      "staged": true
+      "staged": true,
+      "status": "published"
     },
     {
       "id": 44,
@@ -1645,7 +1686,8 @@
       "hub_url": "/watch-winders/",
       "category_label": "Care & Maintenance",
       "category_slug": "care-maintenance",
-      "staged": true
+      "staged": true,
+      "status": "published"
     },
     {
       "id": 45,
@@ -1683,7 +1725,8 @@
       "hub_url": "/watch-winders/",
       "category_label": "Care & Maintenance",
       "category_slug": "care-maintenance",
-      "staged": true
+      "staged": true,
+      "status": "published"
     },
     {
       "id": 46,
@@ -1721,7 +1764,8 @@
       "category_label": "Care & Maintenance",
       "category_slug": "care-maintenance",
       "staged": true,
-      "fail_count": 1
+      "fail_count": 1,
+      "status": "published"
     },
     {
       "id": 47,
@@ -1760,7 +1804,8 @@
       "category_label": "Care & Maintenance",
       "category_slug": "care-maintenance",
       "fail_count": 1,
-      "staged": true
+      "staged": true,
+      "status": "published"
     },
     {
       "id": 48,
@@ -1795,7 +1840,8 @@
       "hub_url": "/watch-winders/",
       "category_label": "Care & Maintenance",
       "category_slug": "care-maintenance",
-      "staged": true
+      "staged": true,
+      "status": "published"
     },
     {
       "id": 49,
@@ -1833,7 +1879,8 @@
       "hub_url": "/watch-winders/",
       "category_label": "Care & Maintenance",
       "category_slug": "care-maintenance",
-      "staged": true
+      "staged": true,
+      "status": "published"
     }
   ]
 }
