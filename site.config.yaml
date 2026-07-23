@@ -10,7 +10,7 @@ site:
 affiliate:
   amazon_tracking_id: "2006-29-20"
 analytics:
-  ga4_measurement_id: G-XXXXXXXXXX
+  ga4_measurement_id: G-F82NP1XL3V
 persona:
   config_path: config/personas/adam-ferris.yaml
 visual:
