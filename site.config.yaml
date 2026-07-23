@@ -22,10 +22,10 @@ visual:
   slots: 5
   logo_paths:
     favicon: /favicon.ico
-    header_svg: /images/brand/logo-header.svg
-    header_png: /images/brand/logo-header.svg
-    footer_svg: /images/brand/logo-footer.svg
-    social_square: /images/brand/logo-header.svg
+    header_svg: /images/brand/logo-header-v2.svg
+    header_png: /images/brand/logo-header-v2.svg
+    footer_svg: /images/brand/logo-footer-v2.svg
+    social_square: /images/brand/logo-header-v2.svg
 images:
   base_url: /images
   pexels_niche_keyword: watch
