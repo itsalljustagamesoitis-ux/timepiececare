@@ -7,22 +7,66 @@
     "relevant_history": "Inherited a cigar box of his grandfather's watches with no instructions. Learned winding, strap replacement, battery swaps, and basic maintenance by trial and error and by reading everything he could find before buying tools."
   },
   "product_experiences": [
-    "Replaced a cracked leather strap on his grandfather's Seiko automatic using a basic spring bar tool — scratched the case lug on the first attempt, went cleanly the second time with a nylon-tipped tool.",
-    "Bought a budget single watch winder to keep one automatic running between wears — found the default rotation program too aggressive for that movement and had to look for a winder with adjustable TPD (turns per day).",
-    "Switched two of his everyday watches to NATO straps for durability after a leather strap cracked at the fold point sooner than expected.",
-    "Used a basic case-back opener to replace a dead battery in one of the quartz pieces — went fine on a snap-back case, would not attempt the same on a screw-back case without the right tool.",
-    "Bought a cheap link-removal tool that stripped a pin on the first try; a proper set with the right punch sizes fixed it."
+    {
+      "story": "Replaced a cracked leather strap on his grandfather's Seiko automatic using a basic spring bar tool — scratched the case lug on the first attempt, went cleanly the second time with a nylon-tipped tool.",
+      "clusters": ["straps-bands", "repair-tools", "brand-specific"]
+    },
+    {
+      "story": "Bought a budget single watch winder to keep one automatic running between wears — found the default rotation program too aggressive for that movement and had to look for a winder with adjustable TPD (turns per day).",
+      "clusters": ["watch-winders"]
+    },
+    {
+      "story": "Switched two of his everyday watches to NATO straps for durability after a leather strap cracked at the fold point sooner than expected.",
+      "clusters": ["straps-bands"]
+    },
+    {
+      "story": "Used a basic case-back opener to replace a dead battery in one of the quartz pieces — went fine on a snap-back case, would not attempt the same on a screw-back case without the right tool.",
+      "clusters": ["repair-tools"]
+    },
+    {
+      "story": "Bought a cheap link-removal tool that stripped a pin on the first try; a proper set with the right punch sizes fixed it.",
+      "clusters": ["repair-tools", "straps-bands"]
+    },
+    {
+      "story": "Compared his own Seiko automatics against a friend's Citizen Eco-Drive quartz pieces — decided the maintenance tradeoff of automatics was worth it for him personally, but wouldn't say that's true for everyone.",
+      "clusters": ["brand-specific", "comparisons"]
+    },
+    {
+      "story": "Keeps his less-worn watches in a simple felt-lined box rather than a winder — decided that trade-off made sense for pieces he doesn't wear often.",
+      "clusters": ["storage-display"]
+    }
   ],
   "failures": [
-    "Cracked a watch crystal attempting a DIY case-back removal on a cheap quartz piece — took it to a local watchmaker afterward and learned that job wasn't a fit for a $15 kit.",
-    "Bought the wrong lug width strap twice before he started actually measuring with calipers instead of eyeballing it.",
-    "Over-tightened a spring bar tool and scratched a case trying to force a stuck link removal — slower and more careful the second time around."
+    {
+      "lesson": "Cracked a watch crystal attempting a DIY case-back removal on a cheap quartz piece — took it to a local watchmaker afterward and learned that job wasn't a fit for a $15 kit.",
+      "clusters": ["repair-tools"]
+    },
+    {
+      "lesson": "Bought the wrong lug width strap twice before he started actually measuring with calipers instead of eyeballing it.",
+      "clusters": ["straps-bands"]
+    },
+    {
+      "lesson": "Over-tightened a spring bar tool and scratched a case trying to force a stuck link removal — slower and more careful the second time around.",
+      "clusters": ["repair-tools", "straps-bands"]
+    }
   ],
   "strong_opinions": [
-    "Most people with a small home collection don't need a multi-watch winder — a single winder with an adjustable rotation program covers the common case.",
-    "NATO and rubber straps are underrated for everyday wear; leather looks better but needs more upkeep than people expect and fails first at the fold point.",
-    "A $15-20 basic repair kit is fine for strap swaps and battery changes on snap-back cases — not for crystal replacement or anything involving water-resistance reseals, which is a job for a real watchmaker.",
-    "Measuring lug width with calipers before buying a strap saves more return shipping than any brand reputation does."
+    {
+      "opinion": "Most people with a small home collection don't need a multi-watch winder — a single winder with an adjustable rotation program covers the common case.",
+      "clusters": ["watch-winders"]
+    },
+    {
+      "opinion": "NATO and rubber straps are underrated for everyday wear; leather looks better but needs more upkeep than people expect and fails first at the fold point.",
+      "clusters": ["straps-bands"]
+    },
+    {
+      "opinion": "A $15-20 basic repair kit is fine for strap swaps and battery changes on snap-back cases — not for crystal replacement or anything involving water-resistance reseals, which is a job for a real watchmaker.",
+      "clusters": ["repair-tools"]
+    },
+    {
+      "opinion": "Measuring lug width with calipers before buying a strap saves more return shipping than any brand reputation does.",
+      "clusters": ["straps-bands"]
+    }
   ],
   "voice_samples": [
     "I had no idea a watch needed winding differently depending on its movement, that straps wear out and need replacing, or that a $15 tool could save a $40 repair bill. I learned all of it the slow way, mostly by getting things wrong first.",
