@@ -45,7 +45,7 @@ Whether you're weighing the cost of taking a quartz piece to a shop versus handl
 
 ### The Type of Case Back Matters More Than Most People Realize
 
-Snap-back cases are the friendliest for DIY battery swaps. A basic case-back opener, the right replacement cell, and a little patience are usually enough. Screw-back cases are a different story. They require a wrench-style tool that fits the notches precisely, and applying too much pressure with the wrong tool can slip and gouge the case. I've seen what happens when that slip occurs, because it happened to me the first time I tried to force a stuck screw-back without the correct wrench.
+Snap-back cases are reported to be the friendliest for DIY battery swaps. A basic case-back opener, the right replacement cell, and patience are typically sufficient. Screw-back cases present greater challenges. They require a wrench-style tool that fits the notches precisely, and applying too much pressure with the wrong tool risks slipping and gouging the case. Improper techniques with incorrect tools can result in damage when attempting to open stuck screw-back cases.
 
 Press-fit cases, common on older dress watches, can look like snap-backs but aren't, and confusing the two is how crystals get cracked. That's not a hypothetical. Attempting a case-back removal on a cheap quartz piece with the wrong kit cracked the crystal, and the job that should have cost a few dollars ended up at the watchmaker anyway. The lesson: if you're not certain what type of case back you have, a reputable repair shop is worth the cost of admission.
 
